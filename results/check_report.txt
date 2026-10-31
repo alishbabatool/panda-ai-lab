@@ -1,0 +1,50 @@
+Step 1
+ PASS 1.1 weather_series
+ PASS 1.2 hottest_day
+ PASS 1.3 build_frame
+ PASS 1.4 series_vs_frame
+Step 2
+ PASS 2.1 csv_roundtrip
+ PASS 2.2 json_columns
+ PASS 2.3 excel_roundtrip
+ PASS 2.4 index_trap
+Step 3
+ PASS 3.1 count_missing
+ PASS 3.2 math_numeric
+ PASS 3.3 remove_duplicates
+ PASS 3.4 fill_english_median
+ PASS 3.5 rows_after_dropna
+ PASS 3.6 section_category
+ PASS 3.7 clean_students
+Step 4
+ PASS 4.1 cheap_products
+ PASS 4.2 accessories_in_stock
+ PASS 4.3 top_two_by_price
+ PASS 4.4 loc_price
+ PASS 4.5 iloc_block
+ PASS 4.6 low_stock_or_premium
+ PASS 4.7 sort_two_keys
+Step 5
+ PASS 5.1 stock_by_category
+ PASS 5.2 avg_price_by_category
+ PASS 5.3 category_summary
+ PASS 5.4 left_merge_names
+ PASS 5.5 inner_merge_rows
+ PASS 5.6 revenue_list
+ PASS 5.7 revenue_by_customer
+ PASS 5.8 price_label
+ PASS 5.9 upper_names
+Step 6
+ PASS 6.1 price_zscore
+ PASS 6.2 dummy_columns
+ PASS 6.3 feature_matrix
+ PASS 6.4 minmax_stock
+ PASS 6.5 train_test_sizes
+Step 7
+ PASS 7.1 top_customer
+ PASS 7.2 best_selling_product
+ PASS 7.3 customer_ranking
+ PASS 7.4 unmatched_orders
+ PASS 7.5 save_report
+
+Score: 41/41
